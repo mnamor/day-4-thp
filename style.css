@@ -1,0 +1,153 @@
+.header
+{ 
+	position: right;
+	margin-left: 1150px;
+	
+
+}
+
+.barh li
+{
+	display: inline; 
+	margin-left:-10px;
+    padding: 0px 7px;
+}
+
+.main
+{
+    margin-left:550px;
+	margin-top:200px;*/
+}
+
+.barb li
+{
+display: inline;
+position: right;
+text-align: justify;
+}
+.footer li
+{
+	display: inline;
+}
+
+.icone
+{
+	height: 24px;
+	width: 24px;
+}
+.champ
+{
+	height: 44px;
+	width: 350px;
+}
+.img
+{
+	margin-left: 43px; 
+}
+.barb{
+	margin-left: 20px;
+}
+.footermain{
+    text-decoration: none;
+	margin-left:75px;
+
+}
+.body{
+	height: 600px;
+	width: 1440px;
+}
+.footer{
+    margin-top:300px;
+}
+/*.footer{
+    display: flex;
+    display:inline;
+    position: absolute;
+    bottom:0px;
+}*/
+/*.bot{
+    display: flex;    
+    justify-content: space-between;
+}
+.L{
+width: 100%;
+}
+.L{
+    display:absolute;
+    bottom:0px;
+}
+.R{
+display: absolute;
+bottom:0px;
+}
+.R li{
+display:flex;
+display: inline;
+}
+.c{
+    
+}
+.footmain{
+    margin-left:35px;
+}*/
+F{
+    margin-left:50px;
+    bottom: 0px;
+    float: left;
+	display: inline-flex;
+	font-size: 15px;
+    left:15px;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: none;
+	color: 000;
+ }
+
+ .navbar-nav {
+	float: left;
+	display: inline-flex;
+	font-size: 15px;
+}
+
+.navbar-nav a {
+	color: none;
+	margin: 15px
+}
+
+.navbar-right {
+    float: right !important;
+	margin: 15px;
+	display: inline-flex;
+	font-size: 15px;
+}
+
+.navbar-right a {
+	color: none;
+	margin: 15px
+}
+}
+.hidden {
+	display: none;
+}
+
+#button {
+	border-radius: 3%;
+	width: 300px;
+	height: 300px;
+	background: #0000;
+	color: none;
+	font-size: 25px;
+	font-weight: bold;
+	border: 5;
+	box-shadow: 10px 10px 10px #ccc;	
+	text-shadow: 10px 10px 10px #ccc;
+}
+
+#demo{
+    margin-top:150px;
+	text-align:center;
+}
